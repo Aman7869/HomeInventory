@@ -1,0 +1,31 @@
+10
+Cannondale Bicycle
+Furnace Room
+TREK943793793
+true
+500
+03/22/1995
+Aurora Cycle,Seattle
+Vintage bike
+C:\Users\lenovo\Documents\NetBeansProjects\Home_Inventory\src\img\new.png
+Clara
+under my desk
+KING5430
+true
+0.00
+10/14/1998
+false
+120
+06/26/2001
+Circuit City
+
+C:\Users\lenovo\Documents\NetBeansProjects\Home_Inventory\src\img\save.png
+8
+Always Lost
+Basement office
+Driveway
+Family Room
+Furnace Room
+My office
+Under my desk
+Under the other desk
